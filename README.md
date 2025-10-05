@@ -13,7 +13,7 @@ npm install irctc-connect-indian-railway
 You need to get an API key from RapidAPI for the Indian Railway APIs. Pass the `x-rapidapi-key` as a parameter to each function.
 
 ```javascript
-const railwayAPI = require('indian-railway-api');
+const railwayAPI = require('install irctc-connect-indian-railway');
 
 const apiKey = 'YOUR_RAPIDAPI_KEY';
 
