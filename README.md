@@ -5,7 +5,7 @@ This npm package provides functions to access Indian Railway data such as PNR st
 ## Installation
 
 ```bash
-npm install indian-railway-api
+npm install irctc-connect-indian-railway
 ```
 
 ## Usage
