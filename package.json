@@ -1,0 +1,21 @@
+{
+  "name": "irctc-connect-indian-railway",
+  "version": "1.0.0",
+  "description": "NPM package for Indian Railway app showing PNR status, live train status, and other features except booking",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "keywords": [
+    "indianrailway",
+    "pnrstatus",
+    "livetrainstatus",
+    "railway",
+    "irctc"
+  ],
+  "author": "Pritam Rauniyar",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}
